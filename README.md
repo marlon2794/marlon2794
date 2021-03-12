@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marlon2794
-- 👀 I’m interested in videogames, machine learning, artificial intelligence, videogames, networks, robots, electronic
+- 👀 I’m interested in machine learning, artificial intelligence, videogames, networks, robots, electronic
 - 🌱 I’m currently learning unity and distributed software
 
 <!---
